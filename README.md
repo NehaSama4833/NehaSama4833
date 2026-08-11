@@ -121,10 +121,23 @@ An Android application built to simplify booking and shifting services.
 
 ---
 
-## `06 // CONTRIBUTION.PROTOCOL`
+## `06 // COMMIT.LOG`
+
+```text
+$ git log --oneline --graph --all
+
+* 7a3f9c1 fix: patched the thing that shouldn't have broken
+* 2b88e21 feat: added something unnecessarily ambitious
+* 9f1a004 chore: coffee-driven refactor
+* c4e02af feat: taught the AI to do the thing (mostly)
+* 1d77bb3 fix: turns out it was a typo the whole time
+* 88af301 feat: initial commit — "how hard can this be"
+```
+
+## `06.1 // CONTRIBUTION.PROTOCOL`
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=NehaSama4833&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaSama4833&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ```
@@ -153,6 +166,6 @@ $ echo "thanks for stopping by"
 
 > now go explore the repositories.
 
-Made with curiosity, questionable ideas & ☕
+Made with curiosity & questionable ideas 
 
 </div>
