@@ -104,24 +104,7 @@ An Android application built to simplify booking and shifting services.
 
 ---
 
-## `04 // GITHUB.STATS`
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NehaSama4833&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaSama4833&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</div>
-
----
-
-## `05 // TROPHIES`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NehaSama4833&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
----
-
-## `06 // COMMIT.LOG`
+## `04 // COMMIT.LOG`
 
 ```text
 $ git log --oneline --graph --all
@@ -134,7 +117,7 @@ $ git log --oneline --graph --all
 * 88af301 feat: initial commit — "how hard can this be"
 ```
 
-## `06.1 // CONTRIBUTION.PROTOCOL`
+## `05 // CONTRIBUTION.PROTOCOL`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaSama4833&theme=tokyo-night&hide_border=true&area=true" />
@@ -146,7 +129,7 @@ idea → build → break → debug → learn → deploy → "okay this is actual
 
 ---
 
-## `07 // CURRENT.QUEST`
+## `06 // CURRENT.QUEST`
 
 - [x] Learn more AWS
 - [x] Build cloud projects
@@ -158,14 +141,14 @@ idea → build → break → debug → learn → deploy → "okay this is actual
 
 ---
 
-## `08 // FIND.ME`
+## `07 // FIND.ME`
 
 <div align="center">
 
 $ echo "thanks for stopping by"
 
-> now go explore the repositories.
+> explore the repositories.
 
-Made with curiosity & questionable ideas 
+Made with curiosity & questionable ideas
 
 </div>
