@@ -62,42 +62,42 @@ The goal is simple: **take an idea → build it → break it → understand it �
 
 ## `03 // FEATURED.BUILDS`
 
-###  GhostGrid
+### * GhostGrid
 **Autonomous security × Zero Trust × AI × infrastructure**
 
 A security-focused system exploring API discovery, telemetry, drift detection and automated remediation.
 
 `eBPF` `AI` `Zero Trust` `Redis` `PostgreSQL` `Next.js`
 
-###  MLOps Titanic Pipeline
+### * MLOps Titanic Pipeline
 **From training notebook → deployed ML system**
 
 An end-to-end MLOps pipeline exploring reproducible training, deployment, benchmarking and retraining on AWS.
 
 `Python` `AWS` `S3` `SageMaker` `Lambda` `Docker`
 
-###  Inbox Sentinel
+### * Inbox Sentinel
 **Your inbox, but someone is actually watching it.**
 
 An AI-powered inbox monitoring agent built on AWS for processing, summarizing and prioritizing incoming information.
 
 `Python` `AWS` `AI Agents` `Automation`
 
-###  IaC Diff Engine
+### * IaC Diff Engine
 **Because changing infrastructure should probably come with a warning.**
 
 A semantic infrastructure diff engine exploring dependency graphs, blast-radius analysis, security detection and intelligent risk classification.
 
 `Terraform` `Graphs` `LLM` `DevSecOps`
 
-###  Meeting Action Items
+### * Meeting Action Items
 **Meetings → useful things people might actually do**
 
 Turns meeting information into structured action items and pushes them into useful downstream workflows.
 
 `Python` `Amazon Bedrock` `Lambda` `SES` `Notion`
 
-###  Sarthi
+### * Sarthi
 An Android application built to simplify booking and shifting services.
 
 `Java` `Android` `Firebase`
