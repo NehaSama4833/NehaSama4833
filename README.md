@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=%24+.%2Finitialize.sh;%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Connecting+to+cloud...;%5BOK%5D+Initializing+MLOps...;%5BOK%5D+Detecting+questionable+ideas...;%5BREADY%5D+system.online" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=%24+.%2Finitialize.sh;%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Connecting+to+cloud...;%5BOK%5D+Initializing+MLOps...;%5BOK%5D+Detecting+questionable+ideas...;%5BWARN%5D+Mild+larping+detected.+Proceeding+anyway;%5BREADY%5D+system.online" />
 
 ### `BUILD • BREAK • LEARN • REPEAT`
 
 *Turning "wait... what if?" into GitHub repositories.*
 
-<br> 
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-NehaSama4833-181717?style=for-the-badge&logo=github)](https://github.com/NehaSama4833)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -20,16 +20,6 @@
 
 ```text
 > whoami
-
-Developer exploring the intersection of
-
-        AI
-        ×
-      CLOUD
-        ×
-      MLOps
-        ×
-    AUTOMATION
 
 Current status:
 [ BUILDING ]
@@ -72,7 +62,7 @@ A security-focused system exploring API discovery, telemetry, drift detection an
 ### * MLOps Titanic Pipeline
 **From training notebook → deployed ML system**
 
-An end-to-end MLOps pipeline exploring reproducible training, deployment, benchmarking and retraining on AWS.
+A full MLOps pipeline exploring reproducible training, deployment, benchmarking and retraining on AWS.
 
 `Python` `AWS` `S3` `SageMaker` `Lambda` `Docker`
 
@@ -104,51 +94,76 @@ An Android application built to simplify booking and shifting services.
 
 ---
 
-## `04 // COMMIT.LOG`
+## `04 // LARP.DISCLOSURE`
 
 ```text
-$ git log --oneline --graph --all
+> cat disclaimer.txt
 
-* 7a3f9c1 fix: patched the thing that shouldn't have broken
-* 2b88e21 feat: added something unnecessarily ambitious
-* 9f1a004 chore: coffee-driven refactor
-* c4e02af feat: taught the AI to do the thing (mostly)
-* 1d77bb3 fix: turns out it was a typo the whole time
-* 88af301 feat: initial commit — "how hard can this be"
+Yes, the section above sounds like I run a data center.
+I do not run a data center.
+I run on coffee, documentation tabs and stubbornness.
 ```
 
-## `05 // CONTRIBUTION.PROTOCOL`
+Okay, real talk: I kinda larp. Affectionately. I draw architecture diagrams like I know exactly what I'm doing, and sometimes I do, and sometimes I'm three Stack Overflow tabs deep wondering why the permission is denied.
+
+My theory is that you become the engineer by acting like one until the gap closes. The gap is closing. Slowly. One commit at a time.
+
+At the end of the day I'm just a student who is **trying**. Loudly, publicly, and with receipts (the receipts are commits).
+
+---
+
+## `05 // SKILLS.JSON (honest build)`
+
+```json
+{
+  "python": "can build real things with it",
+  "aws": "Lambda, S3, Bedrock, SageMaker. IAM is still teaching me",
+  "mlops": "going deeper, slowly but on purpose",
+  "security": "I like breaking my own systems to see how",
+  "writing": "I overthink my tweets",
+  "currently_learning": "how to actually finish things",
+  "status": "still trying"
+}
+```
+
+---
+
+## `06 // CONTRIBUTION.PROTOCOL`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaSama4833&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-```
+```text
 idea → build → break → debug → learn → deploy → "okay this is actually cool"
 ```
 
 ---
 
-## `06 // CURRENT.QUEST`
+## `07 // CURRENT.QUEST`
 
 - [x] Learn more AWS
 - [x] Build cloud projects
 - [x] Experiment with AI agents
 - [ ] Go deeper into MLOps
-- [ ] Build something unnecessarily ambitious
+- [ ] Build something unnecessarily ambitious (in progress, as usual)
 - [ ] Contribute to open source
 - [ ] Deploy something that scares me a little
+- [ ] Finish a project before starting the next one (lol)
 
 ---
 
-## `07 // FIND.ME`
+## `08 // FIND.ME`
 
 <div align="center">
 
+<!-- add your X / LinkedIn badges here -->
+
 $ echo "thanks for stopping by"
 
-> explore the repositories.
+**Roast my code, not me.**
+Reviews welcome, friendly ones especially.
 
-Made with curiosity & questionable ideas
+Made with curiosity, questionable ideas and a lot of trying.
 
 </div>
