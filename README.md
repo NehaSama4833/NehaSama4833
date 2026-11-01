@@ -131,7 +131,6 @@ At the end of the day I'm just a student who is **trying**. Loudly, publicly, an
 ## `06 // CONTRIBUTION.PROTOCOL`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaSama4833&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ```text
