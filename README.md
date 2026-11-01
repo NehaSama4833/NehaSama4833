@@ -94,7 +94,7 @@ An Android application built to simplify booking and shifting services.
 
 ---
 
-## `04 // LARP.DISCLOSURE`
+## `04 // DISCLOSURE`
 
 ```text
 > cat disclaimer.txt
