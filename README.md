@@ -120,7 +120,7 @@ At the end of the day I'm just a student who is **trying**. Loudly, publicly, an
   "aws": "Lambda, S3, Bedrock, SageMaker. IAM is still teaching me",
   "mlops": "going deeper, slowly but on purpose",
   "security": "I like breaking my own systems to see how",
-  "writing": "I overthink my tweets",
+  "writing": "I try sometimes",
   "currently_learning": "how to actually finish things",
   "status": "still trying"
 }
